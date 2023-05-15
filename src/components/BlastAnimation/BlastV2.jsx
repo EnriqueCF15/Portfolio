@@ -1,4 +1,3 @@
-
 import "./blast.scss";
 import TextSpan from "./TextSpan";
 
