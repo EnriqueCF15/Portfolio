@@ -2,6 +2,7 @@ import React from 'react'
 import Fade from 'react-reveal/Fade'
 import './projects.scss'
 
+
 const Project = (props) => {
   const { imgUrl, name, desc, stack, gitHubUrl, website } = props
   return (
