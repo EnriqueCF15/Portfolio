@@ -1,4 +1,4 @@
-import { motion, useAnimationControls } from "framer-motion";
+
 import "./blast.scss";
 import TextSpan from "./TextSpan";
 
